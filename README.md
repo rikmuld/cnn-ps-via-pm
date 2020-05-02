@@ -2,7 +2,7 @@
 
 ## Installation
 
-## Pre-trained Performance Models
+### Pre-trained Performance Models
 
 ## Guides
 
